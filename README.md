@@ -4,8 +4,8 @@ Please see the Diversity and Inclusion [README] to apply for a project badge.
 
 Date        | Event                                            | Badge 
 ------------|--------------------------------------------------|--------------------
-Feb-01-2020 | Mock Event #1 (nowhere)                          | ![Not Passing]
-Feb-16-2020 | Mock Event #2 (nowhere)
+Feb-01-2020 | Mock Project #1 (nowhere)                          | ![Not Passing]
+Feb-16-2020 | Mock Project #2 (nowhere)
 <!-- ADD EVENT
 
 THINGS TO KEEP IN MIND:

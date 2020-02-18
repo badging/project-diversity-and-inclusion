@@ -1,6 +1,6 @@
 # Diversity and Inclusion Badging for Projects
 
-Please see the Diversity and Inclusion [README] to apply for an event badge.
+Please see the Diversity and Inclusion [README] to apply for a project badge.
 
 Date        | Event                                            | Badge 
 ------------|--------------------------------------------------|--------------------

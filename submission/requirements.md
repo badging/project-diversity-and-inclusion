@@ -3,6 +3,8 @@
 
 ## Project status related requirements
 
+- The project must be released under an [OSI-approved license](https://opensource.org/licenses).
+
 - Your project's repository must contain:
   - A Licence file
   - Contributing guidelines

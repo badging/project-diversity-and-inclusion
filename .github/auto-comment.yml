@@ -1,0 +1,163 @@
+pullRequestOpened: >
+  Thank your for raising your pull request.
+
+  Please make sure you have followed our contributing guidelines. We will review it as soon as possible
+  
+  # Project Review Checklist
+
+<!--
+
+This is the review checklist reviewers will use to analyse a CHAOSS Badging submission.
+
+-->
+  ## Initial checks
+
+  - Quantitative
+    - [ ] The source code is available at the given repository URL.
+    - [ ] The Licence for the project is [OSI approved](https://opensource.org/licenses).
+    - [ ] The repository contains a Licence file, contributing guidelines and a README.
+    - [ ] The issue tracker link has been provided.
+    - [ ] The link for documentation has been provided.
+    - [ ] The applicant has major contributions in the submitted project.
+  <!--Possible check: - [ ] Active within the last month -->
+
+  - Qualitative
+    - If any of the checks above are not met, or if the matter provided is insufficient, describe how.
+
+  ## Metric based checks
+
+  ### Communication Channels
+
+  Metric Question: _How welcoming, responsive, respectful are interactions even on hot topics of debate? What is the diversity of voices speaking/being heard?_
+
+  <!-- How does a reviewer analyse this? -->
+
+  #### Quantitative
+
+    - [ ] The communication channel available to join for new contributors.
+    - [ ] The language used within the channel is clear and easy to grasp.
+    - [ ] The project communication channel helps to create a diverse and inclusive environment.
+
+  #### Qualitative
+    - How does the Communication Channel for the project create an inclusive environment?
+  <!-- Possible: - [ ] The language used within the channel is clear and easy to grasp.-->
+  <!--
+  - Original Questions from PR template
+  `Q` Are the communcation channels of the project used to help create a diverse and inclusive project environment?
+
+  `A` Yes/No (Required) 
+
+  `Q` If the previous answer is yes, how does the project create a diverse and inclusive environment in its communcation channels?
+
+  `A` Essay (Required) -->
+
+  ### Issue Tracker
+
+  Metric Question: _How well does the project issue tracker setup to invite new contributors, skilled contributors, non-technical contributors?_
+  #### Quantitative
+    - [ ] The issue tracker is readable without login.
+    - [ ] The issues have been labeled extensively, and the labels have accurate descriptions.
+    <!--A good example: There are disctinctions between issues which are good for new contributors and the ones which are meant for people with more experience with the project.  -->
+
+  <!--
+  - Original Questions from PR template
+  `Q` Is the issue tracker used to invite new contributors, skilled contributors, and non-technical contributors?
+
+  `A`  Yes/No (Required) 
+
+  `Q` If the previous answer is yes, how does the project use an issue tracker?
+
+  `A` Essay (Required) 
+  -->
+  #### Qualitative
+    - Describe how the issue tracker can be improved.
+
+  ### Response Times & Quality
+
+  Metric Question: _How quickly and well does the project respond to suggestions, PR'S, and questions?_
+
+  #### Quantitative
+    - [ ] The project has a good (human) response time.
+  <!-- - [ ] The number of considerate responses is more than dismissive ones-->
+  <!--
+  `Q` Is the response time of the project's administration, developers, or collaborators measured?
+
+  `A` <!-- Yes/No (Required) 
+
+  `Q` If the previous answer is yes, what is the process for collecting and dissiminating this data?
+
+  `A` <!-- Essay (Required) -->
+
+  ### Sentiment
+  <!-- This one is tricky -->
+  Metric Question: _What is the sentiment within external communication channels regarding our own press releases and within our internal communication channels?_
+
+
+  <!--
+  `Q` Is the sentiment of the project's communcation channels measured?
+
+  `A` <!-- Yes/No (Required) 
+
+  `Q` If the previous answer is yes, what is the process for the sentiment of the communcation channels?
+
+  `A` <!-- Essay (Required)
+  -->
+
+  <!-- Instead replace this with Mentorship metric: https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/leadership/mentorship.md ?-->
+
+  ### Documentation
+
+  Metric Question: _What is the thoroughness, and accessibility of documentation according to a set of criteria?_
+
+  #### Quantitative
+    - [ ] The documentation is screen reader accessible.
+    - [ ] The documentation is searchable.
+    <!-- A good example: While looking for a particular topic, it is easy to track that using external search engines or using internal navigation of the project documentation-->
+    - [ ] The document structure was easy to follow.
+    - [ ] The documentation is actively maintained.
+    <!-- How to check: Have a look at the date of the last documentation release -->
+    - [ ] The documentation avoids non-inclusive language.
+
+  #### Qualitative
+    - Describe how the Documentation of the project can be improved to resolve the checks that were not met.
+
+  <!--
+  `Q` (Screen Readers) Is the documentation accessible for screen readers?
+
+  `A` <!-- Yes/No (Required) 
+
+  `Q` (Awareness) Is the documentation findable?
+
+  `A` <!-- Yes/No (Required) 
+
+  `Q` (Clarity) Is the documentation easy to follow and structured intuitively?
+
+  `A` <!-- Yes/No (Required) 
+
+  `Q` (Relevance) Is the documentation regularly updated?
+
+  `A` <!-- Yes/No (Required) 
+
+  `Q` (Relevance) Are the environment builds up to date?
+
+  `A` <!-- Yes/No (Required) 
+
+  `Q` (Non-Technical Accessibility) Does the documentation limit the use of unnecessary technical jargon?
+
+  `A` <!-- Yes/No (Required) 
+
+  `Q` (Inclusion) Does the documentation avoid non-inclusive language? (this could be ‘brogrammer’ language or exclusionary/derogatory language)
+
+  `A` <!-- Yes/No (Required) 
+
+  `Q` (FOSS standards) Do the README & CONTRIBUTING files provide intended information?
+
+  `A` <!-- Yes/No (Required) 
+
+  `Q` Please provide a statement on the project's commitment to the promotion of Diversity and Inclusion through documentation.
+
+  `A` <!-- Essay (Required) 
+
+  `Q` Add more relevant information here.
+
+  `A` <!-- Notes (Not Required) -->

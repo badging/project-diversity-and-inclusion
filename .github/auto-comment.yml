@@ -1,4 +1,4 @@
-pullRequestOpened: >
+pullRequestOpened: |
   Thank your for raising your pull request.
 
   Please make sure you have followed our contributing guidelines. We will review it as soon as possible
@@ -19,7 +19,7 @@ This is the review checklist reviewers will use to analyse a CHAOSS Badging subm
     - [ ] The issue tracker link has been provided.
     - [ ] The link for documentation has been provided.
     - [ ] The applicant has major contributions in the submitted project.
-  <!--Possible check: - [ ] Active within the last month -->
+  
 
   - Qualitative
     - If any of the checks above are not met, or if the matter provided is insufficient, describe how.
@@ -28,8 +28,7 @@ This is the review checklist reviewers will use to analyse a CHAOSS Badging subm
 
   ### Communication Channels
 
-  Metric Question: _How welcoming, responsive, respectful are interactions even on hot topics of debate? What is the diversity of voices speaking/being heard?_
-
+  
   <!-- How does a reviewer analyse this? -->
 
   #### Quantitative
@@ -40,7 +39,7 @@ This is the review checklist reviewers will use to analyse a CHAOSS Badging subm
 
   #### Qualitative
     - How does the Communication Channel for the project create an inclusive environment?
-  <!-- Possible: - [ ] The language used within the channel is clear and easy to grasp.-->
+  
   <!--
   - Original Questions from PR template
   `Q` Are the communcation channels of the project used to help create a diverse and inclusive project environment?
@@ -53,12 +52,10 @@ This is the review checklist reviewers will use to analyse a CHAOSS Badging subm
 
   ### Issue Tracker
 
-  Metric Question: _How well does the project issue tracker setup to invite new contributors, skilled contributors, non-technical contributors?_
   #### Quantitative
     - [ ] The issue tracker is readable without login.
     - [ ] The issues have been labeled extensively, and the labels have accurate descriptions.
-    <!--A good example: There are disctinctions between issues which are good for new contributors and the ones which are meant for people with more experience with the project.  -->
-
+  
   <!--
   - Original Questions from PR template
   `Q` Is the issue tracker used to invite new contributors, skilled contributors, and non-technical contributors?
@@ -73,9 +70,7 @@ This is the review checklist reviewers will use to analyse a CHAOSS Badging subm
     - Describe how the issue tracker can be improved.
 
   ### Response Times & Quality
-
-  Metric Question: _How quickly and well does the project respond to suggestions, PR'S, and questions?_
-
+  
   #### Quantitative
     - [ ] The project has a good (human) response time.
   <!-- - [ ] The number of considerate responses is more than dismissive ones-->
@@ -89,9 +84,6 @@ This is the review checklist reviewers will use to analyse a CHAOSS Badging subm
   `A` <!-- Essay (Required) -->
 
   ### Sentiment
-  <!-- This one is tricky -->
-  Metric Question: _What is the sentiment within external communication channels regarding our own press releases and within our internal communication channels?_
-
 
   <!--
   `Q` Is the sentiment of the project's communcation channels measured?
@@ -103,19 +95,15 @@ This is the review checklist reviewers will use to analyse a CHAOSS Badging subm
   `A` <!-- Essay (Required)
   -->
 
-  <!-- Instead replace this with Mentorship metric: https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/leadership/mentorship.md ?-->
-
+ 
   ### Documentation
 
-  Metric Question: _What is the thoroughness, and accessibility of documentation according to a set of criteria?_
-
+  
   #### Quantitative
     - [ ] The documentation is screen reader accessible.
     - [ ] The documentation is searchable.
-    <!-- A good example: While looking for a particular topic, it is easy to track that using external search engines or using internal navigation of the project documentation-->
     - [ ] The document structure was easy to follow.
     - [ ] The documentation is actively maintained.
-    <!-- How to check: Have a look at the date of the last documentation release -->
     - [ ] The documentation avoids non-inclusive language.
 
   #### Qualitative

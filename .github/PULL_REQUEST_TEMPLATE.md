@@ -6,7 +6,6 @@ labels: event
 assignees: ''
 
 ---
-
 # Project Submission
 
 <!--
@@ -17,95 +16,93 @@ Items are marked with `Q` and `A` lines with comments for each answer.
 
 -->
 
+## Requirements
+
+- Provide a link to your project's repository.
+- Provide a link to your project's documentation.
+- Provide a link to the following files from your project's repository:
+    - Licence
+    - README
+    - Contributing guidelines  
+
 ## Communication Channels
 
-Metric Question: _How welcoming, responsive, respectful are interactions even on hot topics of debate? What is the diversity of voices speaking/being heard?_
+<!--Metric Question: _How welcoming, responsive, respectful are interactions even on hot topics of debate? What is the diversity of voices speaking/being heard?_-->
 
-`Q` Are the communcation channels of the project used to help create a diverse and inclusive project environment?
+`Q` Please provide the link to the communication channel of the project.
 
-`A` <!-- Yes/No (Required) -->
+`A`
 
-`Q` If the previous answer is yes, how does the project create a diverse and inclusive environment in its communcation channels?
+`Q` What efforts are made by the project community to make the communication channel inclusive?
 
 `A` <!-- Essay (Required) -->
 
 ## Issue Tracker
 
-Metric Question: _How well does the project issue tracker setup to invite new contributors, skilled contributors, non-technical contributors?_
+<!--Metric Question: _How well does the project issue tracker setup to invite new contributors, skilled contributors, non-technical contributors?_-->
 
-`Q` Is the issue tracker used to invite new contributors, skilled contributors, and non-technical contributors?
+`Q` Please provide the link to the issue tracker.
 
-`A` <!-- Yes/No (Required) -->
+`A`
 
-`Q` If the previous answer is yes, how does the project use an issue tracker?
+`Q` How does the project community make it easier for new contributors to get involved?
 
 `A` <!-- Essay (Required) -->
 
 ## Response Times & Quality
 
-Metric Question: _How quickly and well does the project respond to suggestions, PR'S, and questions?_
-`Q` 
+<!--Metric Question: _How quickly and well does the project respond to suggestions, PR'S, and questions?_-->
+
 `Q` Is the response time of the project's administration, developers, or collaborators measured?
 
-`A` <!-- Yes/No (Required) -->
+`A`
 
 `Q` If the previous answer is yes, what is the process for collecting and dissiminating this data?
 
 `A` <!-- Essay (Required) -->
 
-## Sentiment
+<!--## Sentiment
 
 Metric Question: _What is the sentiment within external communication channels regarding our own press releases and within our internal communication channels?_
 
 `Q` Is the sentiment of the project's communcation channels measured?
 
-`A` <!-- Yes/No (Required) -->
+`A` <!-- Yes/No (Required) 
 
 `Q` If the previous answer is yes, what is the process for the sentiment of the communcation channels?
 
 `A` <!-- Essay (Required) -->
-    
-## Documentation
 
-Metric Question: _What is the thoroughness, and accessibility of documentation according to a set of criteria?_
+## Mentorship
 
-`Q` (Screen Readers) Is the documentation accessible for screen readers?
+`Q` Does the project actively seek to mentor new contributors?
 
 `A` <!-- Yes/No (Required) -->
 
-`Q` (Awareness) Is the documentation findable?
-
-`A` <!-- Yes/No (Required) -->
-
-`Q` (Clarity) Is the documentation easy to follow and structured intuitively?
-
-`A` <!-- Yes/No (Required) -->
-
-`Q` (Relevance) Is the documentation regularly updated?
-
-`A` <!-- Yes/No (Required) -->
-
-`Q` (Relevance) Are the environment builds up to date?
-
-`A` <!-- Yes/No (Required) -->
-
-`Q` (Non-Technical Accessibility) Does the documentation limit the use of unnecessary technical jargon?
-
-`A` <!-- Yes/No (Required) -->
-
-`Q` (Inclusion) Does the documentation avoid non-inclusive language? (this could be ‘brogrammer’ language or exclusionary/derogatory language)
-
-`A` <!-- Yes/No (Required) -->
-
-`Q` (FOSS standards) Do the README & CONTRIBUTING files provide intended information?
-
-`A` <!-- Yes/No (Required) -->
-
-`Q` Please provide a statement on the project's commitment to the promotion of Diversity and Inclusion through documentation.
+`Q` If the previous answer is yes, what is the process for mentorship?
 
 `A` <!-- Essay (Required) -->
 
-`Q` Add more relevant information here.
+`Q` Please provide a link to the page with details related to mentorship initiative undertaken by the project.
 
-`A` <!-- Notes (Not Required) -->
 
+    
+## Documentation
+
+<!--Metric Question: _What is the thoroughness, and accessibility of documentation according to a set of criteria?_-->
+
+`Q` What is the process for creating/maintaining documentation for the project?
+
+`A` <!-- Essay (Required) -->
+
+`Q` Is the documentation screen reader friendly?
+
+`A` <!-- Yes/No (Required) -->
+
+`Q` How regularly is the documentation updated?
+
+`A` <!-- Essay (Required) -->
+
+`Q` Does the documentation actively limit the use of unnecessary technical jargon?
+
+`A` <!-- Essay (Required) -->

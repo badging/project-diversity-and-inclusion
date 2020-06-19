@@ -21,11 +21,11 @@ Items are marked with `Q` and `A` lines with comments for each answer.
 
 Metric Question: _How welcoming, responsive, respectful are interactions even on hot topics of debate? What is the diversity of voices speaking/being heard?_
 
-`Q` Are the communcation channels of the project used to help create a diverse and inclusive project environment?
+`Q` Are the communication channels of the project used to help create a diverse and inclusive project environment?
 
 `A` <!-- Yes/No (Required) -->
 
-`Q` If the previous answer is yes, how does the project create a diverse and inclusive environment in its communcation channels?
+`Q` If the previous answer is yes, how does the project create a diverse and inclusive environment in its communication channels?
 
 `A` <!-- Essay (Required) -->
 
@@ -49,7 +49,7 @@ Metric Question: _How quickly and well does the project respond to suggestions, 
 
 `A` <!-- Yes/No (Required) -->
 
-`Q` If the previous answer is yes, what is the process for collecting and dissiminating this data?
+`Q` If the previous answer is yes, what is the process for collecting and disseminating this data?
 
 `A` <!-- Essay (Required) -->
 
@@ -57,11 +57,11 @@ Metric Question: _How quickly and well does the project respond to suggestions, 
 
 Metric Question: _What is the sentiment within external communication channels regarding our own press releases and within our internal communication channels?_
 
-`Q` Is the sentiment of the project's communcation channels measured?
+`Q` Is the sentiment of the project's communication channels measured?
 
 `A` <!-- Yes/No (Required) -->
 
-`Q` If the previous answer is yes, what is the process for the sentiment of the communcation channels?
+`Q` If the previous answer is yes, what is the process for the sentiment of the communication channels?
 
 `A` <!-- Essay (Required) -->
     
@@ -108,4 +108,3 @@ Metric Question: _What is the thoroughness, and accessibility of documentation a
 `Q` Add more relevant information here.
 
 `A` <!-- Notes (Not Required) -->
-

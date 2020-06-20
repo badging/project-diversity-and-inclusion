@@ -2,22 +2,22 @@
 
 Please see the Diversity and Inclusion [README] to follow the instruction on applying for a project badge.
 
-Date        | Event                                            | Badge 
+Date        | Project                                            | Badge 
 ------------|--------------------------------------------------|--------------------
 Feb-01-2020 | Mock Project #1 (nowhere)                          | ![Pending]
 Feb-16-2020 | Mock Project #2 (nowhere)
-<!-- ADD EVENT
+<!-- ADD PROJECT
 
 THINGS TO KEEP IN MIND:
 
-- Your event needs to be a valid Markdown table row
-  - It must be on the line indicated by `<!-- ADD EVENT`
+- Your project needs to be a valid Markdown table row
+  - It must be on the line indicated by `<!-- ADD PROJECT`
   - It must all be on a single line
   - It must use ` | ` to separate the columns
   - It must be terminated with a single line break
-- Your event needs to use the following format
+- Your project needs to use the following format
   1. Date: `Mmm-dd-yyyy`
-  2. Event: `‹distinct name› (‹city or venue›)`
+  2. Project: `‹distinct name›`
   3. Badge: must be left blank
 - You may revise this line during the span of the pull request
 

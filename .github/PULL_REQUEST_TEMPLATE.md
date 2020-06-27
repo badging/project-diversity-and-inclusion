@@ -2,24 +2,22 @@
 name: Project Submission
 about: Submit a project to be badged
 title: 'Project Submission: {project name}'
-labels: event
-assignees: ''
+labels: project
 
 ---
+
 # Project Submission
 
 <!--
 
 Thanks for starting the process of submitting a project for D&I Badging. To receive a CHAOSS D&I Project Badge, fill out this document as completely and honestly as possible.
 
-Items are marked with `Q` and `A` lines with comments for each answer.
-
 -->
 
 ## Requirements
 
-- Provide a link to your project's repository.
-- Provide a link to your project's documentation.
+- Link to the project's repository: <!--Replace with link-->
+- Link to the project's documentation: <!--Replace with link-->
 - Provide a link to the following files from your project's repository:
     - Licence
     - README
@@ -43,7 +41,7 @@ Items are marked with `Q` and `A` lines with comments for each answer.
 
 `Q` Please provide the link to the issue tracker.
 
-`A`
+`A` 
 
 `Q` How does the project community make it easier for new contributors to get involved?
 
@@ -55,25 +53,15 @@ Items are marked with `Q` and `A` lines with comments for each answer.
 
 `Q` Is the response time of the project's administration, developers, or collaborators measured?
 
-`A`
+`A` <!-- Essay (Required) -->
 
 `Q` If the previous answer is yes, what is the process for collecting and dissiminating this data?
 
 `A` <!-- Essay (Required) -->
 
-<!--## Sentiment
-
-Metric Question: _What is the sentiment within external communication channels regarding our own press releases and within our internal communication channels?_
-
-`Q` Is the sentiment of the project's communcation channels measured?
-
-`A` <!-- Yes/No (Required) 
-
-`Q` If the previous answer is yes, what is the process for the sentiment of the communcation channels?
-
-`A` <!-- Essay (Required) -->
-
 ## Mentorship
+
+<!--Metric Question: _How effective are our mentorship programs at supporting diversity and inclusion in our project?_-->
 
 `Q` Does the project actively seek to mentor new contributors?
 
@@ -85,8 +73,8 @@ Metric Question: _What is the sentiment within external communication channels r
 
 `Q` Please provide a link to the page with details related to mentorship initiative undertaken by the project.
 
-
-    
+`A`
+   
 ## Documentation
 
 <!--Metric Question: _What is the thoroughness, and accessibility of documentation according to a set of criteria?_-->

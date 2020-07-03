@@ -1,11 +1,11 @@
 # Diversity and Inclusion Badging for Projects
 
-Please see the Diversity and Inclusion [README] to apply for a project badge.
+Please see the [Project Submission Guidelines] to learn how to apply for a Project badge.
 
-Application date | Project name              | Badge 
------------------|---------------------------|--------------------
-Feb-01-2020      | Mock Project #1 (nowhere) | ![Pending]
-Feb-16-2020      | Mock Project #2 (nowhere)
+Application date | Project name              | Badge      |Application PR link     |
+-----------------|---------------------------|------------|------------------------|                       
+Feb-01-2020      | Mock Project #1 (nowhere) | ![Pending] |<!--To be added later-->|
+Feb-16-2020      | Mock Project #2 (nowhere) |            |
 <!-- ADD EVENT
 
 THINGS TO KEEP IN MIND:
@@ -33,3 +33,5 @@ Click here to [Apply for a project Badge][APPLY].
 [README]: https://github.com/badging/diversity-and-inclusion/blob/master/README.md#applying-for-badges
 
 [APPLY]: https://github.com/badging/project-diversity-and-inclusion/edit/master/README.md
+
+[Project Submission Guidelines]: ./submission/guidelines.md

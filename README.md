@@ -7,7 +7,7 @@ Application date | Project name              | Badge      |Application PR link  
 -----------------|---------------------------|------------|------------------------|                       
 Feb-01-2020      | Mock Project #1 (nowhere) | ![Pending] |<!--To be added later-->|
 Feb-16-2020      | Mock Project #2 (nowhere) |            |
-Feb-16-2020      | Mock Project #3 (nowhere) |            |
+Feb-16-2020      | Mock Project #3 (nowhere) |            | |
 <!-- ADD EVENT
 
 THINGS TO KEEP IN MIND:

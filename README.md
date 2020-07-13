@@ -5,25 +5,40 @@ Please see the [Project Submission Guidelines] to learn how to apply for a Proje
 
 Application date | Project name              | Badge      |Application PR link     |
 -----------------|---------------------------|------------|------------------------|                       
-Feb-01-2020      | Mock Project #1 (nowhere) | ![Pending] |<!--To be added later-->|
-Feb-16-2020      | Mock Project #2 (nowhere) |            |
-Feb-16-2020      | Mock Project #3 (nowhere) |            |
-<!-- ADD EVENT
+Feb-01-2020      | Mock Project #1           | ![Pending] |<!--To be added later-->|
+Feb-16-2020      | Mock Project #2           |            |
+Feb-16-2020      | Mock Project #3           |            |
+
+<!-- SAMPLE ROW
+
+Mmm-dd-yyyy      | Project name              |            |                        |
 
 THINGS TO KEEP IN MIND:
 
-- Your event needs to be a valid Markdown table row
-  - It must be on the line indicated by `<!-- ADD EVENT`
+- Your project needs to be a in valid Markdown table row
+  - It must be on the line indicated by 
   - It must all be on a single line
   - It must use ` | ` to separate the columns
   - It must be terminated with a single line break
 - Your event needs to use the following format
   1. Date: `Mmm-dd-yyyy`
-  2. Event: `‹distinct name› (‹city or venue›)`
-  3. Badge: must be left blank
-- You may revise this line during the span of the pull request
+  2. Event: `Project name
+  3. Badge: must be left blank initially. During the application PR, a badge will be suggested according to the review information.
+     That suggestion must be applied in order to get a valid badge in the Markdown table
+  4. Application PR link: must be added during the final commit when the final badge suggestion is applied
 
 -->
+
+
+## Badge Levels
+Four statuses exist for the Diversity and Inclusion Project Badging:
+
+| Level        | Badge        |  Status
+|--------------|--------------|-------------------------------------
+| Pending      | ![Pending]   |  Review ongoing/less than three deliverables met
+| Passing      | ![Passing]   |  3
+| Silver       | ![Silver]    |  4
+| Gold         | ![Gold]      |  5
 
 Click here to [Apply for a project Badge][APPLY].
 

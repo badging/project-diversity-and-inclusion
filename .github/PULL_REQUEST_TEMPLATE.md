@@ -1,11 +1,3 @@
----
-name: Project Submission
-about: Submit a project to be badged
-title: 'Project Submission: {project name}'
-labels: project
-
----
-
 # Project Submission
 
 <!--

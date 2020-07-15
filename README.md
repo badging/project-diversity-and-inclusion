@@ -6,7 +6,8 @@ Please see the [Project Submission Guidelines] to learn how to apply for a Proje
 Application date | Project name              | Badge      |Application PR link     |
 -----------------|---------------------------|------------|------------------------|                       
 Feb-01-2020      | Mock Project #1           | ![Pending] |<!--To be added later-->|
-Feb-16-2020      | Mock Project #2           |            |
+Feb-16-2020      | Mock Project #2           |            |                      
+Jul-15-2020      | Borealis                  |            |<!--To be added later-->|
 
 <!-- SAMPLE ROW
 

@@ -7,6 +7,7 @@ Application date | Project name              | Badge      |Application PR link  
 -----------------|---------------------------|------------|------------------------|                       
 Feb-01-2020      | Mock Project #1           | ![Pending] |<!--To be added later-->|
 Feb-16-2020      | Mock Project #2           |            |
+Jul-15-2020      | Test WP Gotham Theme      |            |                        |
 
 <!-- SAMPLE ROW
 

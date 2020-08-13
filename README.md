@@ -1,6 +1,6 @@
 # Diversity and Inclusion Badging for Projects
 
-## Please Note: Thsis repository will not be used at launch. <br/> Please refer to [our Event Badging repository](https://github.com/badging/event-diversity-and-inclusion)
+## Please Note: This repository will not be used at launch, but it is being prepared for a later time. <br/> Please refer to [our Event Badging repository](https://github.com/badging/event-diversity-and-inclusion)
 
 Please see the [Project Submission Guidelines] to learn how to apply for a Project badge.
 

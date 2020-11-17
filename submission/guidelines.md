@@ -19,3 +19,7 @@
    When either of these conditions are met, the moderator suggests the approprite badge for the project through a PR suggestion.
    This suggestion can be applied directly in the form of a commit.
 8. The whole process ends when the PR with the Badge is added to the master branch.
+
+## Edit the Document
+
+Once you feel comfortable with the process, feel free to [Edit the Document](https://github.com/badging/project-diversity-and-inclusion/edit/master/README.md)!

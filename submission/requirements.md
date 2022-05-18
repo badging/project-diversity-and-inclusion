@@ -26,5 +26,5 @@
 
 ## Diversity-Equity-Inclusion.md File 
 
-- Your /community folder (or related folder) must contain a diversity-equity-inclusion.md file describing attention to DEI-related CHAOSS metrics 
+- Your /community folder (or related folder) must contain a [diversity-equity-inclusion.md](https://github.com/badging/project-diversity-and-inclusion/blob/master/resources/diversity-equity-inclusion.md) file describing attention to DEI-related CHAOSS metrics 
 

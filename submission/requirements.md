@@ -9,6 +9,7 @@
   - A Licence file
   - Contributing guidelines
   - README file
+  - Code of Conduct file
 
 - You should be a major contributor to the software you are submitting.
 

@@ -1,4 +1,4 @@
-# Centering Diversity, Equity, and Inclusion in the <COMMUNITY>
+# Centering Diversity, Equity, and Inclusion in the --COMMUNITY--
 
 This document demonstrates how we in the <COMMUNITY> are committed to centering diversity, equity, and inclusion in the work that we do. The following are four CHAOSS DEI metrics and how we address them in the <COMMUNITY>. 
 

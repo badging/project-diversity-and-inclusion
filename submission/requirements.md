@@ -22,3 +22,8 @@
 
 - A communication channel easily accessible by new contributors.
 <!--To be considered if the issue tracker is also used for communication?-->
+
+## Diversity-Equity-Inclusion.md File 
+
+- Your /community folder (or related folder) must contain a diversity-equity-inclusion.md file describing attention to DEI-related CHAOSS metrics 
+

@@ -29,14 +29,11 @@ THINGS TO KEEP IN MIND:
 
 
 ## Badge Levels
-Four statuses exist for the Diversity and Inclusion Project Badging:
+Currently, the CHAOSS Project DEI Badge is available as 'Passing' when all critera in the application are met:
 
 | Level        | Badge        |  Status
 |--------------|--------------|-------------------------------------
-| Pending      | ![Pending]   |  Review ongoing/less than three deliverables met
 | Passing      | ![Passing]   |  3
-| Silver       | ![Silver]    |  4
-| Gold         | ![Gold]      |  5
 
 Click here to [Apply for a project Badge][APPLY].
 

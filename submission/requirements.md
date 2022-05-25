@@ -2,15 +2,13 @@
 
 ## Project status requirements
 
-- The project must be released under an [OSI-approved license](https://opensource.org/licenses).
-- The documentation for your project must be publicly available.
-- The project contents must be in a repository which can be _cloned_ and _browsed_ without registration.
-- The issue tracker must be readable without registration.
-- A communication channel must be easily accessible by new contributors.
-
-- Your project's repository must contain:
+1. Documentation for your project that is publicly available.
+2. Project contents in a repository that can be _cloned_ and _browsed_ without registration.
+3. An issue tracker that is readable without registration.
+4. A communication channel that is easily accessible by new contributors.
+5. Your project's repository must contain:
   - A README file the clearly defines the objectives of the project
-  - A licence file
-  - A contributing guideline file
+  - An [OSI-approved license](https://opensource.org/licenses) licence file. 
+  - A contributing guidelines file
   - A Code of Conduct file
-  - A community folder (or related folder) that contains a [diversity-equity-inclusion.md](https://github.com/badging/project-diversity-and-inclusion/blob/master/resources/diversity-equity-inclusion.md) file describing attention to DEI-related CHAOSS metrics 
+  - A [diversity-equity-inclusion.md](https://github.com/badging/project-diversity-and-inclusion/blob/master/resources/diversity-equity-inclusion.md) file describing attention to DEI-related CHAOSS metrics 

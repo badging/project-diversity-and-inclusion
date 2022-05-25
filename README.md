@@ -4,7 +4,7 @@ Please see the [Project Submission Guidelines] to learn how to apply for a Proje
 
 Application date | Project name              | Badge      |Application Issue Link  |
 -----------------|---------------------------|------------|------------------------|                       
-Feb-01-2022      | Mock Project #1           | ![Pending] |<!--To be added later-->|
+Feb-01-2022      | Mock Project #1           | ![Passing] |<!--To be added later-->|
 Feb-16-2022      | Mock Project #2           |            |
 
 <!-- SAMPLE ROW

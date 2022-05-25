@@ -31,9 +31,9 @@ THINGS TO KEEP IN MIND:
 ## Badge Levels
 Currently, the CHAOSS Project DEI Badge is available as 'Passing' when all critera in the application are met:
 
-| Level        | Badge        |  Status
-|--------------|--------------|-------------------------------------
-| Passing      | ![Passing]   |  3
+| Level        | Badge        |  
+|--------------|--------------|
+| Passing      | ![Passing]   |
 
 Click here to [Apply for a project Badge][APPLY].
 

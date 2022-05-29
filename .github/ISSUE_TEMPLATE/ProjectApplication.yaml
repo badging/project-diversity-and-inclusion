@@ -111,10 +111,13 @@ body:
     attributes:
       value: "## Response Times & Quality"
 
-  - type: input
+  - type: dropdown
     id: Que5
     attributes:
       label: Q. Is the response time of the project's administration, developers, or collaborators measured?
+      options:
+        - "Yes"
+        - "No"
     validations:
       required: true
 
@@ -133,10 +136,13 @@ body:
     attributes:
       value: "## Mentorship"
 
-  - type: input
+  - type: dropdown
     id: Que7
     attributes:
       label: Q. Does the project actively seek to mentor new contributors?
+      options:
+        - "Yes"
+        - "No"
     validations:
       required: true
 
@@ -169,10 +175,13 @@ body:
     validations:
       required: true
 
-  - type: input
+  - type: dropdown
     id: Que11
     attributes:
       label: Q. Is the documentation screen reader friendly?
+      options:
+        - "Yes"
+        - "No"
     validations:
       required: true
 
@@ -183,9 +192,12 @@ body:
     validations:
       required: true
 
-  - type: input
+  - type: dropdown
     id: Que13
     attributes:
       label: Q. Does the documentation actively limit the use of unnecessary technical jargon?
+      options:
+        - "Yes"
+        - "No"
     validations:
       required: true

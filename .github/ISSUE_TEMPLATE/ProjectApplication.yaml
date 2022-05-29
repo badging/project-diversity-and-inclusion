@@ -96,7 +96,7 @@ body:
     validations:
       required: true
 
-  - type: input
+  - type: textarea
     id: Que4
     attributes:
       label: Q. How does the project community make it easier for new contributors to get involved?
@@ -118,7 +118,7 @@ body:
     validations:
       required: true
 
-  - type: input
+  - type: textarea
     id: Que6
     attributes:
       label: Q. If the previous answer is yes, what is the process for collecting and dissiminating this data?
@@ -140,7 +140,7 @@ body:
     validations:
       required: true
 
-  - type: input
+  - type: textarea
     id: Que8
     attributes:
       label: Q. If the previous answer is yes, what is the process for mentorship?
@@ -162,7 +162,7 @@ body:
     attributes:
       value: "## Documentation"
 
-  - type: input
+  - type: textarea
     id: Que10
     attributes:
       label: Q. What is the process for creating/maintaining documentation for the project?

@@ -74,7 +74,7 @@ body:
     validations:
       required: true
 
-  - type: input
+  - type: textarea
     id: Que2
     attributes:
       label: Q. What efforts are made by the project community to make the communication channel inclusive?

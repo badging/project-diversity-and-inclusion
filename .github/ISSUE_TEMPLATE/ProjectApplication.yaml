@@ -1,0 +1,191 @@
+name: DEI badging application form for projects
+description:  Thanks for taking time to fill out the DEI badging application.
+title: "[Project-Application] "
+labels: ["under-review"]
+assignees:
+  - octocat
+body:
+  - type: markdown
+    attributes:
+      value: "# Project Submission"
+  - type: markdown
+    attributes:
+      value: "## Requirements"
+
+  - type: input
+    id: ProjectLink
+    attributes:
+      label: Link to the project's repository
+      description: Enter the link of the project repository
+    validations:
+      required: true
+
+
+  - type: input
+    id: DocsLink
+    attributes:
+      label: Link to the project's documentation
+      description: Enter the link of the project documentation
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      value: "<br />"
+
+
+  - type: markdown
+    attributes:
+      value: "### Provide a link to the following files from your project's repository:"
+
+  - type: input
+    id: LicenseLink
+    attributes:
+      label: License link
+    validations:
+      required: true
+
+  - type: input
+    id: READMELink
+    attributes:
+      label: README link
+    validations:
+      required: true
+
+  - type: input
+    id: ContribGuide
+    attributes:
+      label: Contributing guidelines
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      value: "<br />"
+
+  - type: markdown
+    attributes:
+      value: "## Communication channels"
+
+  - type: input
+    id: Que1
+    attributes:
+      label: Q. Please provide the link to the communication channel of the project
+    validations:
+      required: true
+
+  - type: input
+    id: Que2
+    attributes:
+      label: Q. What efforts are made by the project community to make the communication channel inclusive?
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      value: "<br />"
+
+  - type: markdown
+    attributes:
+      value: "## Issue Tracker"
+
+  - type: input
+    id: Que3
+    attributes:
+      label: Q. Please provide the link to the issue tracker
+    validations:
+      required: true
+
+  - type: input
+    id: Que4
+    attributes:
+      label: Q. How does the project community make it easier for new contributors to get involved?
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      value: "<br />"
+
+  - type: markdown
+    attributes:
+      value: "## Response Times & Quality"
+
+  - type: input
+    id: Que5
+    attributes:
+      label: Q. Is the response time of the project's administration, developers, or collaborators measured?
+    validations:
+      required: true
+
+  - type: input
+    id: Que6
+    attributes:
+      label: Q. If the previous answer is yes, what is the process for collecting and dissiminating this data?
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      value: "<br />"
+
+  - type: markdown
+    attributes:
+      value: "## Mentorship"
+
+  - type: input
+    id: Que7
+    attributes:
+      label: Q. Does the project actively seek to mentor new contributors?
+    validations:
+      required: true
+
+  - type: input
+    id: Que8
+    attributes:
+      label: Q. If the previous answer is yes, what is the process for mentorship?
+    validations:
+      required: true
+
+  - type: input
+    id: Que9
+    attributes:
+      label: Q. Please provide a link to the page with details related to mentorship initiative undertaken by the project
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      value: "<br />"
+
+  - type: markdown
+    attributes:
+      value: "## Documentation"
+
+  - type: input
+    id: Que10
+    attributes:
+      label: Q. What is the process for creating/maintaining documentation for the project?
+    validations:
+      required: true
+
+  - type: input
+    id: Que11
+    attributes:
+      label: Q. Is the documentation screen reader friendly?
+    validations:
+      required: true
+
+  - type: input
+    id: Que12
+    attributes:
+      label: Q. How regularly is the documentation updated?
+    validations:
+      required: true
+
+  - type: input
+    id: Que13
+    attributes:
+      label: Q. Does the documentation actively limit the use of unnecessary technical jargon?
+    validations:
+      required: true

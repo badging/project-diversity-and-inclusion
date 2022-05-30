@@ -74,7 +74,7 @@ body:
     validations:
       required: true
 
-  - type: input
+  - type: textarea
     id: Que2
     attributes:
       label: Q. What efforts are made by the project community to make the communication channel inclusive?
@@ -96,7 +96,7 @@ body:
     validations:
       required: true
 
-  - type: input
+  - type: textarea
     id: Que4
     attributes:
       label: Q. How does the project community make it easier for new contributors to get involved?
@@ -111,14 +111,17 @@ body:
     attributes:
       value: "## Response Times & Quality"
 
-  - type: input
+  - type: dropdown
     id: Que5
     attributes:
       label: Q. Is the response time of the project's administration, developers, or collaborators measured?
+      options:
+        - "Yes"
+        - "No"
     validations:
       required: true
 
-  - type: input
+  - type: textarea
     id: Que6
     attributes:
       label: Q. If the previous answer is yes, what is the process for collecting and dissiminating this data?
@@ -133,14 +136,17 @@ body:
     attributes:
       value: "## Mentorship"
 
-  - type: input
+  - type: dropdown
     id: Que7
     attributes:
       label: Q. Does the project actively seek to mentor new contributors?
+      options:
+        - "Yes"
+        - "No"
     validations:
       required: true
 
-  - type: input
+  - type: textarea
     id: Que8
     attributes:
       label: Q. If the previous answer is yes, what is the process for mentorship?
@@ -162,17 +168,20 @@ body:
     attributes:
       value: "## Documentation"
 
-  - type: input
+  - type: textarea
     id: Que10
     attributes:
       label: Q. What is the process for creating/maintaining documentation for the project?
     validations:
       required: true
 
-  - type: input
+  - type: dropdown
     id: Que11
     attributes:
       label: Q. Is the documentation screen reader friendly?
+      options:
+        - "Yes"
+        - "No"
     validations:
       required: true
 
@@ -183,9 +192,12 @@ body:
     validations:
       required: true
 
-  - type: input
+  - type: dropdown
     id: Que13
     attributes:
       label: Q. Does the documentation actively limit the use of unnecessary technical jargon?
+      options:
+        - "Yes"
+        - "No"
     validations:
       required: true

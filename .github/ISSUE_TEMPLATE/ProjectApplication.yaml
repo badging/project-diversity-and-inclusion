@@ -8,25 +8,27 @@ assignees:
 body:
   - type: markdown
     attributes:
-      value: "# Project Submission"
+      value: "# Open Source Project Submission"
   - type: markdown
     attributes:
-      value: "## Requirements"
+      value: "## Please Fill in the Following Fields"
 
   - type: input
     id: ProjectLink
     attributes:
-      label: Link to the project's repository
-      description: Enter the link of the project repository
+      label: Link to the project's repository or website
+      description: Enter the link of the project repository or website
     validations:
       required: true
 
 
-  - type: input
-    id: DocsLink
+  - type: dropdown
+    id: DocsPublic
     attributes:
-      label: Link to the project's documentation
-      description: Enter the link of the project documentation
+      label: Is your project documentation publically available?
+      options:
+        - yes
+        - no
     validations:
       required: true
 

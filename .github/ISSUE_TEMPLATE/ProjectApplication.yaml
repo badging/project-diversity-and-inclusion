@@ -75,6 +75,7 @@ body:
     id: READMELink
     attributes:
       label: README link
+      description: The README clearly define the objectives of the project. A good README guides is available at [Make a Readme](https://www.makeareadme.com/)
     validations:
       required: true
 

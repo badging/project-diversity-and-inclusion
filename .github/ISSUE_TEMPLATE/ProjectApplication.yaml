@@ -53,7 +53,7 @@ body:
     id: LicenseLink1
     attributes:
       label: License link
-      description: The licesnse should [OSI](https://opensource.org/licenses/alphabetical) or SPDX approved
+      description: The licesnse must be [OSI](https://opensource.org/licenses/alphabetical) or [SPDX](https://spdx.org/licenses/) approved
     validations:
       required: true
       

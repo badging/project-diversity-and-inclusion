@@ -18,7 +18,7 @@ body:
       value: "# Open Source Project Submission"
   - type: markdown
     attributes:
-      value: "## Please Fill in the Following Fields"
+      value: "## Please Fill in the Following Fields. Make sure you have read the [Submission Guidelines](https://github.com/badging/project-diversity-and-inclusion/blob/master/submission/guidelines.md)"
       
   - type: input
     id: ProjectLink

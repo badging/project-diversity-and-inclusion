@@ -47,7 +47,7 @@ body:
 
   - type: markdown
     attributes:
-      value: "### Provide a links to the following files in your project's repository:"
+      value: "## Provide a links to the following files in your project's repository:"
 
   - type: input
     id: DEImdLink

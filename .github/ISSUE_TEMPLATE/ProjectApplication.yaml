@@ -1,1 +1,15 @@
+name: DEI badging application for projects
+description:  Please use the following to apply for the CHAOSS DEI Project Badge.
+title: "[Project-Application] "
+labels: ["initial-submission"]
+assignees:
+  - Badger Bot 🦡
+  
+body:
+  - type: markdown
+    attributes:
+      value: "# Open Source Project Submission"
+  - type: markdown
+    attributes:
+      value: "## Please Fill in the Following Fields"
 

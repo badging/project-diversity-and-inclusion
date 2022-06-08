@@ -3,7 +3,7 @@ description:  Please use the following to apply for the CHAOSS DEI Project Badge
 title: "[Project-Application] "
 labels: ["initial-submission"]
 assignees:
-  - octocat
+
   
 body:
   - type: markdown

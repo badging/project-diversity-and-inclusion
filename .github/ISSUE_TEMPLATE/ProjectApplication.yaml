@@ -1,7 +1,7 @@
 name: DEI badging application form for projects
-description:  Thanks for taking time to fill out the DEI badging application.
+description:  Please use the following to apply for the CHAOSS DEI Project Badge.
 title: "[Project-Application] "
-labels: ["under-review"]
+labels: ["initial-submission"]
 assignees:
   - octocat
   

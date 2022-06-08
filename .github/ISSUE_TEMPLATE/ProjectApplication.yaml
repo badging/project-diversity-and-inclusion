@@ -27,8 +27,8 @@ body:
     attributes:
       label: Is your project documentation publically available?
       options:
-        - yes
-        - no
+        - 'yes'
+        - 'no'
     validations:
       required: true
 

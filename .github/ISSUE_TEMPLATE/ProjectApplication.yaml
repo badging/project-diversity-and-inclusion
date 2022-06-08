@@ -30,8 +30,8 @@ body:
         - 'no'
     validations:
       required: true
-      
-        - type: dropdown
+
+  - type: dropdown
     id: ContentsPublic
     attributes:
       label: Are your project contents in a repository that is publicly available?

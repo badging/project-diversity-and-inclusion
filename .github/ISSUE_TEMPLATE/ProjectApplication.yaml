@@ -17,7 +17,7 @@ body:
     id: ProjectLink
     attributes:
       label: Link to the project's repository or website
-      description: Enter the link of the project repository or website
+      description: "Enter the link of the project repository or website"
     validations:
       required: true
 

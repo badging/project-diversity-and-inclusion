@@ -9,6 +9,6 @@
  - A [diversity-equity-inclusion.md](https://github.com/badging/project-diversity-and-inclusion/blob/master/resources/diversity-equity-inclusion.md) file describing attention to DEI-related CHAOSS metrics.
  -  A Code of Conduct file.
   - A Contributing Guidelines file.
-  - A README file the clearly defines the objectives of the project.
+  - A README file that clearly defines the objectives of the project.
   - An [OSI-approved license](https://opensource.org/licenses) or [SPDX](https://spdx.org/licenses/) licence file(s). 
 

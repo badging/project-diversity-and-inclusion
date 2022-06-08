@@ -63,7 +63,6 @@ body:
       label: License link 2 (if applicable)
       description: The licesnse must be [OSI](https://opensource.org/licenses/alphabetical) or [SPDX](https://spdx.org/licenses/) approved
     validations:
-      required: true
       
   - type: input
     id: LicenseLink3
@@ -71,7 +70,6 @@ body:
       label: License link 3 (if applicable)
       description: The licesnse must be [OSI](https://opensource.org/licenses/alphabetical) or [SPDX](https://spdx.org/licenses/) approved
     validations:
-      required: true
 
   - type: input
     id: READMELink

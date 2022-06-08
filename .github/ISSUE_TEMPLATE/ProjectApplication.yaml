@@ -11,7 +11,7 @@ body:
       value: "# Defining Your Project"
   - type: markdown
     attributes:
-      value: "We understand the defining the bounds of a project is difficult. Some projects are really big while others are much smaller. Heck, some projects contain projects That's OK! What we ask is that you, as the submitter, represent your porject (however you define it) and that the information that you submit is applicable to all parts of your project" 
+      value: "We understand the defining the bounds of a project is difficult. Some projects are really big while others are much smaller. Heck, some projects even contain projects. That's OK! What we ask is that you, as the submitter, represent your porject (however you define it) and that the information you submit is applicable to all parts of your project." 
 
   - type: markdown
     attributes:

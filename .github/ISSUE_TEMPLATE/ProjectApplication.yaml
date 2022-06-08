@@ -81,29 +81,6 @@ body:
     validations:
       required: true
 
-  - type: input
-    id: LicenseLink1
-    attributes:
-      label: License Link 1
-      description: The licesnse must be [OSI](https://opensource.org/licenses/alphabetical) or [SPDX](https://spdx.org/licenses/) approved
-    validations:
-      required: true
-      
-  - type: input
-    id: LicenseLink2
-    attributes:
-      label: License Link 2 (if applicable)
-      description: The licesnse must be [OSI](https://opensource.org/licenses/alphabetical) or [SPDX](https://spdx.org/licenses/) approved
-    validations:
-    
-  - type: input
-    id: LicenseLink3
-    attributes:
-      label: License Link 3 (if applicable)
-      description: The licesnse must be [OSI](https://opensource.org/licenses/alphabetical) or [SPDX](https://spdx.org/licenses/) approved
-    validations:
-
   - type: markdown
     attributes:
       value: "<br />"
-

@@ -95,7 +95,7 @@ body:
       label: License Link 2 (if applicable)
       description: The licesnse must be [OSI](https://opensource.org/licenses/alphabetical) or [SPDX](https://spdx.org/licenses/) approved
     validations:
-      
+    
   - type: input
     id: LicenseLink3
     attributes:

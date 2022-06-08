@@ -49,3 +49,10 @@ body:
     attributes:
       value: "### Provide a links to the following files in your project's repository:"
 
+  - type: input
+    id: DEImdLink
+    attributes:
+      label: DEI.md Link
+      description: A DEI.md file is a new and special file associated with CHAOSS DEI Project Badging. The publically available file must be placed in a community-level repository (i.e., .github or community repositories) or on your website. The DEI.md contains descriptions of how you attend to specific CHAOSS DEI-related metrics. A template is available at [DEI.md Template](https://github.com/badging/project-diversity-and-inclusion/blob/master/resources/diversity-equity-inclusion.md)
+    validations:
+      required: true

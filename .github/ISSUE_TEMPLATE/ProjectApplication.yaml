@@ -81,7 +81,7 @@ body:
     validations:
       required: true
       
-        - type: input
+  - type: input
     id: LicenseLink1
     attributes:
       label: License Link 1

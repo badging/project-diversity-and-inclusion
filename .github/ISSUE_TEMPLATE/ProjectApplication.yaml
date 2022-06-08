@@ -94,26 +94,12 @@ body:
       description: The Code of Conduct clearly expresess the a set of core values and norms that are essential in a just and equitable software commons ([Contributor Convenant, 2022](https://www.contributor-covenant.org/)). A good guide on setting up a Code of Conduct is available from [GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-code-of-conduct-to-your-project)
     validations:
       required: true
-
-  - type: markdown
-    attributes:
-      value: "<br />"
-
-  - type: markdown
-    attributes:
-      value: "## Communication channels"
-
+      
   - type: input
-    id: Que1
+    id: DEImdLink
     attributes:
-      label: Q. Please provide the link to the communication channel of the project
-    validations:
-      required: true
-
-  - type: textarea
-    id: Que2
-    attributes:
-      label: Q. What efforts are made by the project community to make the communication channel inclusive?
+      label: DEI.md Link
+      description: A DEI.md file is a special file associated with CHAOSS DEI Project Badging. The file must be placed in a community-level repository (i.e., .github or community repositories) or on your website.
     validations:
       required: true
 
@@ -121,119 +107,3 @@ body:
     attributes:
       value: "<br />"
 
-  - type: markdown
-    attributes:
-      value: "## Issue Tracker"
-
-  - type: input
-    id: Que3
-    attributes:
-      label: Q. Please provide the link to the issue tracker
-    validations:
-      required: true
-
-  - type: textarea
-    id: Que4
-    attributes:
-      label: Q. How does the project community make it easier for new contributors to get involved?
-    validations:
-      required: true
-
-  - type: markdown
-    attributes:
-      value: "<br />"
-
-  - type: markdown
-    attributes:
-      value: "## Response Times & Quality"
-
-  - type: dropdown
-    id: Que5
-    attributes:
-      label: Q. Is the response time of the project's administration, developers, or collaborators measured?
-      options:
-        - "Yes"
-        - "No"
-    validations:
-      required: true
-
-  - type: textarea
-    id: Que6
-    attributes:
-      label: Q. If the previous answer is yes, what is the process for collecting and dissiminating this data?
-    validations:
-      required: true
-
-  - type: markdown
-    attributes:
-      value: "<br />"
-
-  - type: markdown
-    attributes:
-      value: "## Mentorship"
-
-  - type: dropdown
-    id: Que7
-    attributes:
-      label: Q. Does the project actively seek to mentor new contributors?
-      options:
-        - "Yes"
-        - "No"
-    validations:
-      required: true
-
-  - type: textarea
-    id: Que8
-    attributes:
-      label: Q. If the previous answer is yes, what is the process for mentorship?
-    validations:
-      required: true
-
-  - type: input
-    id: Que9
-    attributes:
-      label: Q. Please provide a link to the page with details related to mentorship initiative undertaken by the project
-    validations:
-      required: true
-
-  - type: markdown
-    attributes:
-      value: "<br />"
-
-  - type: markdown
-    attributes:
-      value: "## Documentation"
-
-  - type: textarea
-    id: Que10
-    attributes:
-      label: Q. What is the process for creating/maintaining documentation for the project?
-    validations:
-      required: true
-
-  - type: dropdown
-    id: Que11
-    attributes:
-      label: Q. Is the documentation screen reader friendly?
-      options:
-        - "Yes"
-        - "No"
-    validations:
-      required: true
-
-  - type: input
-    id: Que12
-    attributes:
-      label: Q. How regularly is the documentation updated?
-    validations:
-      required: true
-
-  - type: dropdown
-    id: Que13
-    attributes:
-      label: Q. Does the documentation actively limit the use of unnecessary technical jargon?
-      options:
-        - "Yes"
-        - "No"
-    validations:
-      required: true

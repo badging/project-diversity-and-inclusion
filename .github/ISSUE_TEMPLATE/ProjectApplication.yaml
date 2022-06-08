@@ -75,7 +75,7 @@ body:
     id: READMELink
     attributes:
       label: README link
-      description: The README clearly define the objectives of the project. A good README guides is available at [Make a Readme](https://www.makeareadme.com/)
+      description: The README clearly define the objectives of the project. A good README guide is available at [Make a Readme](https://www.makeareadme.com/)
     validations:
       required: true
 
@@ -83,6 +83,7 @@ body:
     id: ContribGuide
     attributes:
       label: Contributing guidelines
+      description: A contributing file helps community members how to contribute to your project. A good set of contributing guidelines are available in the [GitHub Contributing Guidelines](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors) 
     validations:
       required: true
 

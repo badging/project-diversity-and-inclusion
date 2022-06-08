@@ -41,10 +41,4 @@ body:
     validations:
       required: true
 
-- type: markdown
-    attributes:
-      value: "<br />"
 
-  - type: markdown
-    attributes:
-      value: "### Provide a links to the following files in your project's repository:"

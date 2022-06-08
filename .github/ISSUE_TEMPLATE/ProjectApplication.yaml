@@ -68,7 +68,7 @@ body:
     id: CoCLink
     attributes:
       label: Code of Conduct Link
-      description: The Code of Conduct clearly expresess the a set of core values and norms that are essential in a just and equitable software commons ([Contributor Convenant, 2022](https://www.contributor-covenant.org/)). A good guide on setting up a Code of Conduct is available from [GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-code-of-conduct-to-your-project)
+      description: The Code of Conduct clearly expresess the a set of core values and norms that are essential in a just and equitable software commons ([Contributor Convenant, 2022](https://www.contributor-covenant.org/)). A good guide on setting up a Code of Conduct is available from [GitHub Code of Conduct Guidelines](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-code-of-conduct-to-your-project)
     validations:
       required: true
       

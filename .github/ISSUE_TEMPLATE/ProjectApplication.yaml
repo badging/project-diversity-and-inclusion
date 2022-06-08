@@ -52,7 +52,7 @@ body:
   - type: input
     id: LicenseLink1
     attributes:
-      label: License link
+      label: License link 1
       description: The licesnse must be [OSI](https://opensource.org/licenses/alphabetical) or [SPDX](https://spdx.org/licenses/) approved
     validations:
       required: true
@@ -61,6 +61,7 @@ body:
     id: LicenseLink2
     attributes:
       label: License link 2 (if applicable)
+      description: The licesnse must be [OSI](https://opensource.org/licenses/alphabetical) or [SPDX](https://spdx.org/licenses/) approved
     validations:
       required: true
       
@@ -68,6 +69,7 @@ body:
     id: LicenseLink3
     attributes:
       label: License link 3 (if applicable)
+      description: The licesnse must be [OSI](https://opensource.org/licenses/alphabetical) or [SPDX](https://spdx.org/licenses/) approved
     validations:
       required: true
 

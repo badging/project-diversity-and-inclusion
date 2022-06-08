@@ -20,3 +20,13 @@ body:
       description: "Enter the link of the project repository or website"
     validations:
       required: true
+
+  - type: dropdown
+    id: DocsPublic
+    attributes:
+      label: Is your project documentation publically available?
+      options:
+        - 'yes'
+        - 'no'
+    validations:
+      required: true

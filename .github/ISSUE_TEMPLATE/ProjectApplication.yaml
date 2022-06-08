@@ -8,7 +8,7 @@ assignees:
 body:
   - type: markdown
     attributes:
-      value: "Defining Your Project"
+      value: "# Defining Your Project"
   - type: markdown
     attributes:
       value: "We understand the defining the bounds of a project can be difficult. Some projects are really big others are much smaller. Heck, some projects contain projects That's OK!" 

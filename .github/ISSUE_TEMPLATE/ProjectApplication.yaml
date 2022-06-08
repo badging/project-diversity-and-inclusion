@@ -21,7 +21,6 @@ body:
     validations:
       required: true
 
-
   - type: dropdown
     id: DocsPublic
     attributes:
@@ -46,15 +45,29 @@ body:
     attributes:
       value: "<br />"
 
-
   - type: markdown
     attributes:
-      value: "### Provide a link to the following files from your project's repository:"
+      value: "### Provide a links to the following files from your project's repository:"
 
   - type: input
-    id: LicenseLink
+    id: LicenseLink1
     attributes:
       label: License link
+      description: The licesnse should (OSI)[https://opensource.org/licenses/alphabetical] or SPDX approved
+    validations:
+      required: true
+      
+  - type: input
+    id: LicenseLink2
+    attributes:
+      label: License link 2 (if applicable)
+    validations:
+      required: true
+      
+  - type: input
+    id: LicenseLink3
+    attributes:
+      label: License link 3 (if applicable)
     validations:
       required: true
 

@@ -56,3 +56,54 @@ body:
       description: A DEI.md file is a new and special file associated with CHAOSS DEI Project Badging. The publically available file must be placed in a community-level repository (i.e., .github or community repositories) or on your website. The DEI.md contains descriptions of how you attend to specific CHAOSS DEI-related metrics. A template is available at [DEI.md Template](https://github.com/badging/project-diversity-and-inclusion/blob/master/resources/diversity-equity-inclusion.md)
     validations:
       required: true
+      
+  - type: input
+    id: CoCLink
+    attributes:
+      label: Code of Conduct Link
+      description: The Code of Conduct clearly expresess the a set of core values and norms that are essential in a just and equitable software commons ([Contributor Convenant, 2022](https://www.contributor-covenant.org/)). A good guide on setting up a Code of Conduct is available from [GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-code-of-conduct-to-your-project)
+    validations:
+      required: true
+      
+  - type: input
+    id: READMELink
+    attributes:
+      label: README Link
+      description: The README clearly define the objectives of the project. A good README guide is available at [Make a Readme](https://www.makeareadme.com/)
+    validations:
+      required: true
+
+  - type: input
+    id: ContribGuide
+    attributes:
+      label: Contributing Guidelines Link
+      description: A contributing file helps community members how to contribute to your project. A good set of contributing guidelines are available in the [GitHub Contributing Guidelines](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors) 
+    validations:
+      required: true
+      
+        - type: input
+    id: LicenseLink1
+    attributes:
+      label: License Link 1
+      description: The licesnse must be [OSI](https://opensource.org/licenses/alphabetical) or [SPDX](https://spdx.org/licenses/) approved
+    validations:
+      required: true
+      
+  - type: input
+    id: LicenseLink2
+    attributes:
+      label: License Link 2 (if applicable)
+      description: The licesnse must be [OSI](https://opensource.org/licenses/alphabetical) or [SPDX](https://spdx.org/licenses/) approved
+    validations:
+    
+  - type: input
+    id: LicenseLink3
+    attributes:
+      label: License Link 3 (if applicable)
+      description: The licesnse must be [OSI](https://opensource.org/licenses/alphabetical) or [SPDX](https://spdx.org/licenses/) approved
+    validations:
+
+  - type: markdown
+    attributes:
+      value: "<br />"
+

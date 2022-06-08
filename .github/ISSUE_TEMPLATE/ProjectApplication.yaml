@@ -24,7 +24,7 @@ body:
     id: ProjectLink
     attributes:
       label: Link to the project's repository or website
-      description: "Enter the link of the project repository or website"
+      description: "Enter the link of your project repository or website"
     validations:
       required: true
 
@@ -76,7 +76,7 @@ body:
     id: READMELink
     attributes:
       label: README Link
-      description: The README clearly define the objectives of the project. A good README guide is available at [Make a Readme](https://www.makeareadme.com/)
+      description: The README clearly define the objectives of your project. A good README guide is available at [Make a Readme](https://www.makeareadme.com/)
     validations:
       required: true
 

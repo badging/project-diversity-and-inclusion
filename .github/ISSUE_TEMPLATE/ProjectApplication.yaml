@@ -13,3 +13,10 @@ body:
     attributes:
       value: "## Please Fill in the Following Fields"
 
+  - type: input
+    id: ProjectLink
+    attributes:
+      label: Link to the project's repository or website
+      description: "Enter the link of the project repository or website"
+    validations:
+      required: true

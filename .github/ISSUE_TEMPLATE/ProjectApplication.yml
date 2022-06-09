@@ -1,6 +1,6 @@
 name: DEI badging application for projects
 description:  Please use the following to apply for the CHAOSS DEI Project Badge.
-title: "[Project-Application] "
+title: "[Project-Application: Name of Your Project] "
 labels: ["initial-submission"]
 assignees:
   - Badger Bot
